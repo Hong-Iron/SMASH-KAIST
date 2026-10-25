@@ -20,5 +20,66 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "류근철 스포츠 컴플렉스 (N3)": {
+      "style": "glass",
+      "wall": "#8a877e",
+      "glass": "#2a4652",
+      "frame": "#b3b0a6"
+    },
+    "학술문화관 (E9)": {
+      "style": "stone",
+      "wall": "#e4e0d6",
+      "glass": "#3b4a52",
+      "frame": "#3e3b36"
+    },
+    "세종관 (E8)": {
+      "style": "stone",
+      "wall": "#ece5cf",
+      "glass": "#3a4448",
+      "frame": "#f2efe6",
+      "hip": true,
+      "roof": "#3a3f41"
+    },
+    "기초실험연구동 (N5)": {
+      "style": "brick",
+      "wall": "#7b4e3f",
+      "glass": "#2d3436",
+      "frame": "#c9c2b5"
+    },
+    "나노종합기술원 (E19)": {
+      "style": "glass",
+      "wall": "#d6dbde",
+      "glass": "#4f6a7a",
+      "frame": "#c4c9cd"
+    },
+    "홍&박 KI빌딩 (E4)": {
+      "style": "glass",
+      "wall": "#e0e0dc",
+      "glass": "#3f5a6c",
+      "frame": "#cfd1d1"
+    },
+    "갈릴레이관 (W3)": {
+      "style": "dorm",
+      "wall": "#dcd8b8",
+      "glass": "#3e4644",
+      "frame": "#efece0",
+      "hip": true,
+      "roof": "#45494c"
+    },
+    "김병호·김삼열 IT융합 빌딩 (N1)": {
+      "style": "ribbon",
+      "wall": "#8e9497",
+      "glass": "#3e4a52",
+      "frame": "#b8bcbe"
+    },
+    "실습동 (N9)": {
+      "style": "brick",
+      "wall": "#7e4636",
+      "glass": "#2c3236",
+      "frame": "#4a4a48"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
