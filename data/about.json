@@ -1,0 +1,34 @@
+{
+ "region": "대전 유성구 구성동",
+ "nameEn": "KAIST",
+ "added": "2026-10-24",
+ "rank": 10,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CNU",
+   "campus": "충남대학교 대덕캠퍼스",
+   "km": 1.3
+  },
+  {
+   "code": "DDU",
+   "campus": "대덕대학교",
+   "km": 2.3
+  },
+  {
+   "code": "KBTUS",
+   "campus": "한국침례신학대학교",
+   "km": 3.7
+  },
+  {
+   "code": "MOKWON",
+   "campus": "목원대학교",
+   "km": 5.5
+  },
+  {
+   "code": "PCU",
+   "campus": "배재대학교",
+   "km": 5.5
+  }
+ ]
+}
